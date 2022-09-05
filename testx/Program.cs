@@ -71,6 +71,7 @@ namespace POLYtest
                                 }
 
                             }
+                            break;
                         }
 
 
